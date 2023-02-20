@@ -1,0 +1,7 @@
+*.DS_Store
+code/server/coverage/
+code/server/node_modules/
+code/client/node_modules/
+code/server/database.sqlite
+.vscode/
+code/server/.nyc_output/
